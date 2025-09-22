@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "gia-20",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "Gia-template-db",
+      "database_id": "83520b27-2727-4bd5-b040-b486e341ae7d"
+    }
+  ]
+}
